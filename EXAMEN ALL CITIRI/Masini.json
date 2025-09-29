@@ -1,0 +1,32 @@
+[
+  {
+    "cod": 101,
+    "marca": "Toyota",
+    "areAsigurare": true,
+    "tip": "SEDAN"
+  },
+  {
+    "cod": 102,
+    "marca": "BMW",
+    "areAsigurare": false,
+    "tip": "CABRIO"
+  },
+  {
+    "cod": 103,
+    "marca": "Audi",
+    "areAsigurare": true,
+    "tip": "HATCHBACK"
+  },
+  {
+    "cod": 104,
+    "marca": "Ferrari",
+    "areAsigurare": true,
+    "tip": "HYPERCAR"
+  },
+  {
+    "cod": 105,
+    "marca": "Skoda",
+    "areAsigurare": false,
+    "tip": "COMBI"
+  }
+]

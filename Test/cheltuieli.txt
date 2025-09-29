@@ -1,0 +1,35 @@
+1001, Licente software, 25000.00
+1001, Echipamente hardware, 40000.00
+1001, Salarizare, 55000.00
+1002, Publicitate online, 20000.00
+1002, Campanie social media, 30000.00
+1002, Consultanta marketing, 15000.00
+1003, Training angajati, 5000.00
+1003, Teambuilding, 3000.00
+1003, Platforma recrutare, 5000.00
+1004, Servere cloud, 60000.00
+1004, Dezvoltare software, 70000.00
+1004, Suport tehnic, 50000.00
+1005, Audit financiar, 20000.00
+1005, Software contabilitate, 15000.00
+1005, Salarizare, 25000.00
+1006, Inchiriere depozit, 30000.00
+1006, Transport marfa, 20000.00
+1006, Echipamente logistica, 25000.00
+1007, Materie prima, 60000.00
+1007, Intretinere utilaje, 40000.00
+1007, Salarizare, 50000.00
+1008, Achizitie aparatura, 80000.00
+1008, Analize laborator, 60000.00
+1008, Salarizare cercetare, 90000.00
+1009, Licente software, 30000.00
+1009, Echipamente hardware, 35000.00
+1009, Salarizare, 55000.00
+1010, Publicitate TV, 40000.00
+1010, Evenimente promotionale, 30000.00
+1010, Consultanta marketing, 25000.00
+1011, Training HR, 5000.00
+1011, Platforma HR, 3000.00
+1011, Teambuilding, 4000.00
+1012, Audit financiar, 25000.00
+1012, Software contabilitate, 20000.

@@ -1,0 +1,40 @@
+[
+  {"idMasina": 1, "data": "2023-06-15", "cost": 500.0, "tip": "revizie generala"},
+  {"idMasina": 1, "data": "2024-03-12", "cost": 300.0, "tip": "schimb ulei"},
+
+  {"idMasina": 2, "data": "2024-02-10", "cost": 1200.0, "tip": "schimb ambreiaj"},
+  {"idMasina": 2, "data": "2023-05-05", "cost": 450.0, "tip": "revizie generala"},
+
+  {"idMasina": 3, "data": "2024-01-20", "cost": 350.0, "tip": "schimb frane"},
+
+  {"idMasina": 4, "data": "2023-07-18", "cost": 600.0, "tip": "schimb anvelope"},
+  {"idMasina": 4, "data": "2022-09-10", "cost": 400.0, "tip": "revizie generala"},
+
+  {"idMasina": 5, "data": "2024-04-10", "cost": 900.0, "tip": "schimb distributie"},
+  {"idMasina": 5, "data": "2023-11-30", "cost": 300.0, "tip": "schimb ulei"},
+
+  {"idMasina": 6, "data": "2023-03-15", "cost": 250.0, "tip": "schimb filtre"},
+
+  {"idMasina": 7, "data": "2024-05-22", "cost": 500.0, "tip": "revizie generala"},
+  {"idMasina": 7, "data": "2023-06-10", "cost": 400.0, "tip": "schimb frane"},
+  {"idMasina": 7, "data": "2022-12-01", "cost": 350.0, "tip": "schimb anvelope"},
+
+  {"idMasina": 8, "data": "2023-08-08", "cost": 300.0, "tip": "schimb ulei"},
+
+  {"idMasina": 9, "data": "2024-01-15", "cost": 750.0, "tip": "schimb suspensii"},
+
+  {"idMasina": 10, "data": "2023-04-22", "cost": 400.0, "tip": "revizie generala"},
+
+  {"idMasina": 11, "data": "2024-03-30", "cost": 350.0, "tip": "schimb frane"},
+  {"idMasina": 11, "data": "2023-11-20", "cost": 500.0, "tip": "revizie generala"},
+
+  {"idMasina": 12, "data": "2022-07-14", "cost": 250.0, "tip": "schimb ulei"},
+
+  {"idMasina": 13, "data": "2023-09-19", "cost": 200.0, "tip": "schimb filtre"},
+  {"idMasina": 13, "data": "2022-05-10", "cost": 300.0, "tip": "revizie generala"},
+
+  {"idMasina": 14, "data": "2024-04-11", "cost": 550.0, "tip": "schimb distributie"},
+
+  {"idMasina": 15, "data": "2024-02-20", "cost": 400.0, "tip": "revizie generala"},
+  {"idMasina": 15, "data": "2023-05-25", "cost": 250.0, "tip": "schimb filtre"}
+]

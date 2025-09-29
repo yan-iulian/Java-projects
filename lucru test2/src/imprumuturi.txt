@@ -1,0 +1,16 @@
+Luceafărul;2024-03-01;2024-03-10
+Baltagul;2024-03-05;2024-03-20
+Ion;2024-03-10;2024-04-01
+Enigma Otiliei;2024-03-15;2024-04-02
+Mara;2024-03-20;2024-04-05
+Amintiri din copilărie;2024-03-22;2024-04-10
+Moara cu noroc;2024-03-25;2024-04-08
+Scrisoarea III;2024-03-30;2024-04-12
+Ultima noapte de dragoste;2024-04-01;2024-04-14
+Patul lui Procust;2024-04-02;2024-04-20
+La Medeleni;2024-04-03;2024-04-18
+Pădurea spânzuraților;2024-04-05;2024-04-25
+O scrisoare pierdută;2024-04-06;2024-04-19
+Nunta Zamfirei;2024-04-07;2024-04-21
+Povestea porcului;2024-04-08;2024-04-22
+Fefeleaga;2024-04-09;2024-04-23

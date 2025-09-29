@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Persoane>
+    <Persoana>
+        <nume>Ana</nume>
+        <varsta>25</varsta>
+        <salariu>3000</salariu>
+    </Persoana>
+    <Persoana>
+        <nume>Ion</nume>
+        <varsta>30</varsta>
+        <salariu>3500</salariu>
+    </Persoana>
+    <Persoana>
+        <nume>Maria</nume>
+        <varsta>28</varsta>
+        <salariu>3200</salariu>
+    </Persoana>
+    <Persoana>
+        <nume>Vlad</nume>
+        <varsta>40</varsta>
+        <salariu>4000</salariu>
+    </Persoana>
+    <Persoana>
+        <nume>Elena</nume>
+        <varsta>35</varsta>
+        <salariu>3700</salariu>
+    </Persoana>
+</Persoane>

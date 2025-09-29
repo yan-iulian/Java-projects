@@ -1,0 +1,10 @@
+[
+  {"idPersoana": 1, "tip": "prezentare", "durata": 3, "cost": 150.0},
+  {"idPersoana": 2, "tip": "sedinta", "durata": 2, "cost": 80.0},
+  {"idPersoana": 1, "tip": "workshop", "durata": 5, "cost": 250.0},
+  {"idPersoana": 3, "tip": "sedinta", "durata": 2, "cost": 90.0},
+  {"idPersoana": 4, "tip": "prezentare", "durata": 3, "cost": 120.0},
+  {"idPersoana": 4, "tip": "workshop", "durata": 4, "cost": 200.0},
+  {"idPersoana": 5, "tip": "sedinta", "durata": 1, "cost": 60.0},
+  {"idPersoana": 7, "tip": "workshop", "durata": 5, "cost": 300.0}
+]

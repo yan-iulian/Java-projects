@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Masini>
+    <Masina>
+        <cod>101</cod>
+        <marca>Toyota</marca>
+        <areAsigurare>true</areAsigurare>
+        <tip>SEDAN</tip>
+    </Masina>
+    <Masina>
+        <cod>102</cod>
+        <marca>BMW</marca>
+        <areAsigurare>false</areAsigurare>
+        <tip>CABRIO</tip>
+    </Masina>
+    <Masina>
+        <cod>103</cod>
+        <marca>Audi</marca>
+        <areAsigurare>true</areAsigurare>
+        <tip>HATCHBACK</tip>
+    </Masina>
+    <Masina>
+        <cod>104</cod>
+        <marca>Ferrari</marca>
+        <areAsigurare>true</areAsigurare>
+        <tip>HYPERCAR</tip>
+    </Masina>
+    <Masina>
+        <cod>105</cod>
+        <marca>Skoda</marca>
+        <areAsigurare>false</areAsigurare>
+        <tip>COMBI</tip>
+    </Masina>
+</Masini>

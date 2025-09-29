@@ -1,0 +1,7 @@
+J.K. Rowling,Harry Potter,FICTION,450
+George Orwell,1984,FICTION,328
+Yuval Noah Harari,Sapiens,NONFICTION,512
+Stephen Hawking,A Brief History of Time,FICTION,256
+Walter Isaacson,Steve Jobs,NONFICTION,656
+Stephen Hawking,A Brief History of Time,FICTION,300
+Stephen Hawking,A Brief History of Time,FICTION,400

@@ -1,0 +1,17 @@
+Marca                          Model                Numar revizii   Cost total     
+
+BMW                            Seria3               2               1650.0         
+Skoda                          Octavia              3               1250.0         
+Mercedes                       CLA                  2               1200.0         
+Volkswagen                     Golf                 2               1000.0         
+Kia                            Ceed                 2               850.0          
+Toyota                         Corolla              2               800.0          
+Audi                           A4                   1               750.0          
+Mazda                          3                    2               650.0          
+Honda                          Civic                1               550.0          
+Opel                           Astra                2               500.0          
+Peugeot                        308                  1               400.0          
+Dacia                          Duster               1               350.0          
+Hyundai                        i30                  1               300.0          
+Renault                        Megane               1               250.0          
+Ford                           Focus                1               250.0          

@@ -1,0 +1,9 @@
+Nume persoana                  Nr activitati Cost total          
+
+Popescu Ana                    2          400.00              
+Stoica Andrei                  2          320.00              
+Dumitru Ioana                  1          300.00              
+Georgescu Maria                1          90.00               
+Ionescu Vlad                   1          80.00               
+Marin Elena                    1          60.00               
+Constantin Radu                0          0.00                

@@ -1,0 +1,7 @@
+1,Popescu Ana,25,3500.5
+2,Ionescu Vlad,30,4200
+3,Georgescu Maria,27,3800
+4,Stoica Andrei,35,4500
+5,Marin Elena,29,4100
+6,Constantin Radu,28,3700
+7,Dumitru Ioana,32,4600

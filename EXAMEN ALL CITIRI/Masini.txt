@@ -1,0 +1,5 @@
+101,Toyota,true,SEDAN
+102,BMW,false,CABRIO
+103,Audi,true,HATCHBACK
+104,Ferrari,true,HYPERCAR
+105,Skoda,false,COMBI

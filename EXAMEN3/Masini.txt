@@ -1,0 +1,15 @@
+1,Toyota,Corolla,2018,13500.0
+2,BMW,Seria3,2020,25000.0
+3,Dacia,Duster,2019,17000.0
+4,Volkswagen,Golf,2017,15000.0
+5,Mercedes,CLA,2021,32000.0
+6,Renault,Megane,2016,12500.0
+7,Skoda,Octavia,2022,23000.0
+8,Hyundai,i30,2019,16000.0
+9,Audi,A4,2020,28000.0
+10,Peugeot,308,2018,14500.0
+11,Kia,Ceed,2021,19000.0
+12,Ford,Focus,2017,14000.0
+13,Opel,Astra,2016,12000.0
+14,Honda,Civic,2019,18000.0
+15,Mazda,3,2022,21000.0

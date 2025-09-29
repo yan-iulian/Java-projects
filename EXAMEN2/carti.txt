@@ -1,0 +1,7 @@
+1,Marele Gatsby,F. Scott Fitzgerald,35.50,1925
+2,1984,George Orwell,42.00,1949
+3,Solenoid,Mircea Cartarescu,58.90,2015
+4,To Kill a Mockingbird,Harper Lee,39.20,1960
+5,The Hobbit,J.R.R. Tolkien,45.00,1937
+6,Enigma Otiliei,George Calinescu,30.00,1938
+7,Fratii Karamazov,Fyodor Dostoevsky,50.00,1880

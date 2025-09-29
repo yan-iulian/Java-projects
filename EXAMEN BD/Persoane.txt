@@ -1,0 +1,18 @@
+CREATE TABLE Persoane (
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    nume TEXT NOT NULL,
+    varsta INTEGER NOT NULL,
+    salariu REAL NOT NULL
+);
+
+INSERT INTO Persoane (nume, varsta, salariu) VALUES
+('Ana', 25, 3000),
+('Ion', 30, 3500),
+('Maria', 28, 3200),
+('George', 45, 4000),
+('Elena', 32, 3600),
+('Radu', 29, 3100),
+('Andreea', 26, 2950),
+('Mihai', 38, 3900),
+('Cristina', 27, 3150),
+('Vasile', 50, 4100);
