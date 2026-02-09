@@ -1,9 +1,0 @@
-Nr imprumuturi      Titlu                          Nr zile imprumut              
-
-2                   Marele Gatsby                  21                            
-2                   1984                           12                            
-2                   Solenoid                       23                            
-1                   To Kill a Mockingbird          10                            
-1                   The Hobbit                     20                            
-0                   Enigma Otiliei                 0                             
-0                   Fratii Karamazov               0                             
